@@ -11,13 +11,21 @@ About our Project:
 
   To make things easier for anyone who wants to play the game, the link above takes you to a github repository that contains not only the game but the LOVE2D engine to run it.
 
-To install (On WINDOWS, I couldn't get LOVE2D to run on Linux due to USNA cert issues):
+To install (WINDOWS):
 
   1. Go to the link, click the "code" button, and install as a zip file, it's pretty small.
 
   2. Extract the zip file to somewhere where you can access it.
 
   3. Open the file, double-click "icywings.exe", and enjoy. (Note: windows will warn you, just click "more info", then run)
+  
+ To install (Linux):
+  
+  1. Follow step 1 above
+  
+  2. Follow step 2 above
+  
+  3. While in the directory via terminal, run this command:  ./love.AppImage icywings.love (Note: if this does not work, right click love.AppImage->Properties->Allow execution as a program.
 
 Known Bugs and Issues:
 
